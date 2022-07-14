@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate fullstack junior developper from Belgium 🖥️ in a DevSecOps training journey in  with BeCode👩🏻‍💻.</h3>
-
+![Alt Text](https://giphy.com/embed/C4ocyh1QZi6dNOwJ4X)
 # <iframe src="https://giphy.com/embed/C4ocyh1QZi6dNOwJ4X" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><a href="https://giphy.com/gifs/GitHub-squirrel-ship-it-shipit-C4ocyh1QZi6dNOwJ4X">via GIPHY</a></p>
 
