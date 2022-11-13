@@ -1,6 +1,6 @@
 [![MasterHead](https://www.orangemantra.com/wp-content/uploads/2018/05/DevOps-banner-1160x378.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A passionate junior DevSecOps engineer from Belgium 🖥️ in a training journey with [BeCode](https://becode.org/learn/devops-secops-sysadmin-training/) 👩🏻‍💻.</h3>
+<h3 align="center">A passionate junior DevSecOps engineer from Belgium 🖥️ 👩🏻‍💻.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacoppin&label=Profile%20views&color=0e75b6&style=flat" alt="sacoppin" /> </p>
 
 # 💻 Tech Stack:
