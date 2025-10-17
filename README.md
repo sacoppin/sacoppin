@@ -1,4 +1,5 @@
-```# profile_data.yaml
+```
+# profile_data.yaml
 #
 # Technical Profile Configuration for [Your Full Name/Username]
 # Transitioning from: Certified Splunk Admin (DevOps) ➡️ SOC Analyst
@@ -37,7 +38,7 @@ certifications_education:
 core_skills:
   - domain: "SIEM_LOG_ANALYSIS"
     tools:
-      - "Splunk Administration & SPL (Expert)"
+      - "Splunk Administration & SPL"
       - "Threat Hunting & Incident Triage"
       - "Log Aggregation & Normalization"
       - "Observability"
