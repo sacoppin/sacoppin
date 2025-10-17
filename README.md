@@ -1,4 +1,4 @@
-# profile_data.yaml
+```# profile_data.yaml
 #
 # Technical Profile Configuration for [Your Full Name/Username]
 # Transitioning from: Certified Splunk Admin (DevOps) ➡️ SOC Analyst
@@ -78,4 +78,5 @@ key_achievements:
   - id: 004
     summary: "Prepared detailed workshop documentation and technical guidance, ensuring high quality and consistency through defined SOPs."
     related_skills: ["Documentation", "Knowledge Transfer", "SOP Adherence"]
-    
+
+    ```
