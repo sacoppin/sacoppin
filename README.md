@@ -3,7 +3,9 @@
 > **Transitioning Path:** Certified Splunk Admin (DevOps Background) ➡️ Cybersecurity Analyst (SOC Focus)
 
 A highly structured profile detailing competencies, skill domains, and professional achievements.
-
+### 🕹️ Ma Contribution Grid Animée (Snake)
+ 
+![Snake animation](https://raw.githubusercontent.com/sacoppin/sacoppin/output/github-contribution-grid-snake-dark.svg)
 ---
 ### 🎯 `ROLE_DEFINITION`
 
