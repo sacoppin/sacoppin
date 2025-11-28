@@ -1,4 +1,4 @@
-# ⚙️ Technical Profile Configuration: [Coppin - Sarah]
+# ⚙️ Technical Profile Configuration:
 
 > **Transitioning Path:** Certified Splunk Admin (DevOps Background) ➡️ Cybersecurity Analyst (SOC Focus)
 
