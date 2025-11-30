@@ -18,8 +18,6 @@
 
 > **Transitioning Path:** Certified Splunk Admin (DevOps Background) ➡️ Cybersecurity Analyst (SOC Focus)
 
-A highly structured profile detailing competencies, skill domains, and professional achievements.
-
 ---
 ### 🎯 `ROLE_DEFINITION`
 
@@ -43,8 +41,6 @@ A highly structured profile detailing competencies, skill domains, and professio
 
 ---
 ### 🛠️ `CORE_SKILLS` (Proficiencies)
-
-A domain-based breakdown of technical capabilities.
 
 #### **1. SIEM & LOG ANALYSIS** (Proficiency: 90/100)
 * Splunk Administration & advanced SPL scripting.
