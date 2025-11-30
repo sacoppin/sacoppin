@@ -3,9 +3,7 @@
 > **Transitioning Path:** Certified Splunk Admin (DevOps Background) ➡️ Cybersecurity Analyst (SOC Focus)
 
 A highly structured profile detailing competencies, skill domains, and professional achievements.
-### 🕹️ Ma Contribution Grid Animée (Snake)
- 
-![Snake animation](https://raw.githubusercontent.com/sacoppin/sacoppin/output/github-contribution-grid-snake-dark.svg)
+
 ---
 ### 🎯 `ROLE_DEFINITION`
 
@@ -48,6 +46,23 @@ A domain-based breakdown of technical capabilities.
 * Authentication implementation (Sonatype Nexus).
 * Basic Vulnerability Management principles.
 * Standard Operating Procedures (SOPs) development and adherence.
+
+## 🛠️ TECH STACK | FOCUS CYBERSÉCURITÉ & SIEM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-1E90FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuNC4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIzIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNNTUuMTUgMzU0LjNDLTEuNjc0IDMwMS4yLTcuNzEzIDIwOS4xIDQ1LjM1IDE1Mi41QzExMy4yIDcyLjI0IDE5Mi45IDM5Ljg0IDI2Mi40IDM5Ljg0QzMyMi42IDM5Ljg0IDM5MS44IDcyLjg1IDQ1My4yIDE1Mi41QzUwNS43IDIwOS4xIDQ5OS42IDMwMS4yIDQ0Mi41IDM1NC4zQzM4MS43IDQyNC4xIDMxMi40IDQ1NS41IDI2Mi40IDQ1NS41QzE5Mi45IDQ1NS41IDExMy4yIDQyNC45IDU1LjE1IDM1NC4zWk0zNTIgMjg4QzM1MiAyMzMuNyAzMDcuNyAxODkgMjUyIDE4OUMxOTYuMyAxODkgMTUyIDIzMy43IDE1MiAyODhDMTUyIDM0Mi4zIDE5Ni4zIDM4NyAyNTIgMzg3QzMwNy43IDM4NyAzNTIgMzQyLjMgMzUyIDI4OFoiLz48L3N2Zy4+&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 ---
 ### 🚀 `KEY_ACHIEVEMENTS` (Professional Experience)
