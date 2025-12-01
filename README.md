@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-1E90FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuNC4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIzIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNNTUuMTUgMzU0LjNDLTEuNjc0IDMwMS4yLTcuNzEzIDIwOS4xIDQ1LjM1IDE1Mi41QzExMy4yIDcyLjI0IDE5Mi45IDM5Ljg0IDI2Mi40IDM5Ljg0QzMyMi42IDM5Ljg0IDM5MS44IDcyLjg1IDQ1My4yIDE1Mi41QzUwNS43IDIwOS4xIDQ5OS42IDMwMS4yIDQ0Mi41IDM1NC4zQzM4MS43IDQyNC4xIDMxMi40IDQ1NS41IDI2Mi40IDQ1NS41QzE5Mi45IDQ1NS41IDExMy4yIDQyNC45IDU1LjE1IDM1NC4zWk0zNTIgMjg4QzM1MiAyMzMuNyAzMDcuNyAxODkgMjUyIDE4OUMxOTYuMyAxODkgMTUyIDIzMy43IDE1MiAyODhDMTUyIDM0Mi4zIDE5Ni4zIDM4NyAyNTIgMzg3QzMwNy43IDM4NyAzNTIgMzQyLjMgMzUyIDI4OFoiLz48L3N2Zy4+&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-1E90FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuNC4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIzIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBkPSJNNTUuMTUgMzU0LjNDLTEuNjc0IDMwMS4yLTcuNzEzIDIwOS4xIDQ1LjM1IDE1Mi41QzExMy4yIDcyLjI0IDE5Mi45IDM5LjgwMiAyNjIuNCAzOS44NDZDMzIyLjYgMzkuODg1IDM5MS44IDcyLjg5MyA0NTMuMiAxNTIuNTVDNTA1LjY5NSAyMDkuMTUxIDQ5OS41NTkgMzAxLjI1MSA0NDIuNTE1IDM1NC4zNTlDMzgxLjcgNDI0LjEyIDMxMi40IDQ1NS41MDkgMjYyLjQgNDU1LjU1M0MxOTIuOSA0NTUuNTk2IDExMy4yIDQyNC45MjcgNTUuMTUgMzU0LjN6TTM1MiAyODhDMzUyIDIzMy43MjYgMzA3LjYyMSAxODkuMjg5IDI1MiAxODkuMjg5QzE5Ni4zNzkgMTg5LjI4OSAxNTIgMjMzLjcyNiAxNTIgMjg4QzE1MiAzNDIuMjcyIDE5Ni4zNzkgMzg3IDI1MiAzODdDMzA3LjYyMSAzODcgMzUyIDM0Mi4yNzIgMzUyIDI4OHoiLz48L3N2Zy4+&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 
